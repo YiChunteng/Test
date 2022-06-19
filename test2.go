@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("git1")
+	fmt.Println("git1 in other program")
 }
